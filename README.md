@@ -1,1 +1,3 @@
 # CodingSamurai_Task2
+
+# CALCULATION APPLICATION
